@@ -1,0 +1,264 @@
+@media only screen and (min-width : 0px) and (max-width :979px) {
+	.contain{
+		width: auto;
+		}
+	#socialMediaBottomBar,#topNavListBar,footer{
+		width:100%;
+		}
+	#footerContent div:nth-child(2){
+		order:1;
+		width:90%;
+		margin:auto;
+		}
+	.titleImageRight{
+		width:96%;
+		margin:auto;
+		}
+}
+@media only screen and (min-width : 0px) and (max-width :900px) {	
+	.secPageMainImage{
+		width:90%;
+		height:auto;
+		padding-bottom:15px;
+		}	
+}
+@media only screen and (min-width : 0px) and (max-width :540px) {
+	footer p{
+		display:block;
+		width:100%;
+		float: none;
+		padding-top:7px;
+		text-align:center;
+		}
+}
+@media only screen and (min-width : 761px) and (max-width :860px) {
+	#nav ul li img{
+	margin-right:10px;
+	}
+	
+}
+@media only screen and (min-width : 0px) and (max-width :760px) {
+	.contain{
+		width: auto;
+		}
+	main{
+		margin: 0.5em auto;
+		}
+	aside{
+		width:100%;
+		float:left;
+		background-color: #ffffff;
+		padding:0px;
+		position:relative;
+		}
+	.homeMenuLink{
+		display:inline-block;
+		}
+	#mobileTopBar{
+		display:block;
+		}
+	#olb, #nav ul li a img{
+		display:none;
+		}
+	#banner,#banner2, #mainContent{
+		width: 100%;
+		}
+	#frontPageLeft{
+		width:100%;
+		float: none;
+		clear: both;
+		display:block;
+		position:relative;
+		padding-top:20px; 
+		}
+	#frontPageLeft article p, #frontPageLeft article h3{
+		padding:5px;
+		}
+	#frontPageRight{
+		width:100%;
+		display:flex;
+		position:relative;
+		justify-content:space-around;
+		height: auto;
+		margin-top:0px;
+		padding:0px 0px 20px 0px;
+	}
+	.frontPageRightDiv{
+		width:48%;
+		}
+	.frontPageRightDivider{
+		width:2px;
+		height:100px;
+		}
+	.titleImageRight{
+		width: inherit;
+		margin:auto;
+		}
+	h2{
+		width:50%;
+		margin:auto;
+		border-radius:10px;
+		text-align:center;
+		background: url(../images/h2bgm.gif) repeat-x top;
+		background-color:#95ca38;
+		text-align:center !important;
+		}
+	h1{
+		background: url(../images/h2bgm.gif) repeat-x top;
+		border-radius:10px;
+		width:90%;
+		background-color:#000;
+		margin:10px auto;
+		text-align:center;
+		}
+	#footerContent{
+		margin-bottom:35px;
+		}
+	.footerParagraphContainer{
+		border-left:0px solid #000;
+		text-align:center;
+		padding-left:0;
+		border-top:1px solid #000;
+		}
+	.footerInfoBox:nth-child(2),.footerInfoBox:nth-child(1){
+		width:98%;
+		margin:auto;
+		}
+	#mainContent{
+		margin:0 !important;
+		padding:0 !important;
+		}
+	#footerContent div:nth-child(1), #footerContent div:nth-child(3){
+		width:50%;
+		}
+	.footerDivider{
+		width:98%; 
+		}
+	.dropDownArrow{
+		display: inline-block !important;
+		width:16px !important;
+		height:12px !important;
+		margin-left:90% !important;
+		}
+	#nav ul li:hover{
+		background-color: #EFEFEF;
+		}
+	#main{
+		background:none;
+		min-height:auto;
+		}
+	#banner2{
+	min-height: auto;
+	padding:5px;
+	height:auto;
+		}
+		ul.otherLinks, .whatsNewList{
+			margin:0;
+			padding:0
+		}
+		.membershipList{
+			margin:0;
+			padding:14px;
+		}
+		
+			
+}
+@media only screen and (min-width : 0px) and (max-width :670px) {
+	#frontPageRight{
+		display:block;
+		position:relative;
+		}
+	.frontPageRightDivider{
+		width:70%;
+		height:2px;
+		}
+	.frontPageRightDiv{
+		width:98%;
+		margin:auto;
+		}
+					#topNavAd{
+				
+				display:none !important;
+			}
+			#logoContainer{
+				text-align:center;
+			}
+					#logoImage{
+			float: none;
+			display:inline-block;
+		}
+		.locationTable, .feesTable, .membershipList li, .contactUsTable, .whatsNewList{
+			font-size:0.8em;
+		}
+		
+}
+@media only screen and (min-width : 0px) and (max-width :540px) {
+	#logoContainer, #topNavListBar{
+		text-align:center;
+		}
+	#logoContainer img{
+		display:inline-block;
+		width:50%;
+		}
+	.marquee span{
+		font-size:12px;
+		}
+	header{
+		height:auto;
+		min-height: inherit;
+		}
+	.onlineServicesList {
+		columns: 1;
+		-webkit-columns: 1;
+		-moz-columns: 1;
+		margin:0;
+		padding:15px;
+		}
+	h2, h1{
+		width:90%;
+		}
+	#calculators a, #calculators a.last {
+		width: 98%;
+		margin:2px auto;
+		}
+		.calculatorSection{
+			float:none;
+			width: 98%;
+			margin:auto;
+		}
+	.rates_table{
+		border-spacing:1px 1px;
+		}
+	.rates_table tr{
+		line-height:1em;
+		}
+	#rates_container{
+		font-size:0.8em;
+		}
+		 .contactUsTable{
+			font-size:0.75em;
+		}
+		
+}
+@media only screen and (min-width : 0px) and (max-width :480px) {
+	.footerInfoBox ul li{
+		float: none;
+		display: block;
+		width:100%;
+		text-align:center;
+		}
+	.footerInfoBox h2{
+		text-align:center;
+		}
+	#calculators a {
+		font-size:11px;
+		}
+		#footerContent div:nth-child(1) img:nth-child(1){
+	margin-right:5px;
+}
+.rates_title{
+	font-weight: normal;
+	font-size:0.8em;
+	
+}
+}
